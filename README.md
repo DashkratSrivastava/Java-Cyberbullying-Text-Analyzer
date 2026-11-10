@@ -144,3 +144,7 @@ weighted avg       0.89      0.89      0.89      2300
 * Shilpi Kumari
 * Dashkrat Srivastava
 * Prayush Patel
+
+
+## 🤝 Contributors
+- **Dashkrat Srivastava** ([@DashkratSrivastava](https://github.com/DashkratSrivastava))
